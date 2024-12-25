@@ -1,2 +1,2 @@
 # Learning-Kotlin
-Learning some Kotlin for mobile app development.
+1. Some basic conceptes of kotlin
